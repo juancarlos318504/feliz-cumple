@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a4fa2e41.chunk.css",
+    "main.js": "./static/js/main.7dbde254.chunk.js",
+    "main.js.map": "./static/js/main.7dbde254.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.23e87949.js",
+    "runtime-main.js.map": "./static/js/runtime-main.23e87949.js.map",
+    "static/js/2.3293b7b7.chunk.js": "./static/js/2.3293b7b7.chunk.js",
+    "static/js/2.3293b7b7.chunk.js.map": "./static/js/2.3293b7b7.chunk.js.map",
+    "static/js/3.9a5861c6.chunk.js": "./static/js/3.9a5861c6.chunk.js",
+    "static/js/3.9a5861c6.chunk.js.map": "./static/js/3.9a5861c6.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a4fa2e41.chunk.css.map": "./static/css/main.a4fa2e41.chunk.css.map",
+    "static/js/2.3293b7b7.chunk.js.LICENSE.txt": "./static/js/2.3293b7b7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/qdbettercomicsansalternates-z8823-webfont.527c3db9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23e87949.js",
+    "static/js/2.3293b7b7.chunk.js",
+    "static/css/main.a4fa2e41.chunk.css",
+    "static/js/main.7dbde254.chunk.js"
+  ]
+}
